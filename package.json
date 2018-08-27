@@ -1,0 +1,16 @@
+{
+  "name": "tfjs01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.5",
+    "bootstrap": "^4.1.3"
+  }
+}
